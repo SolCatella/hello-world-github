@@ -1,2 +1,2 @@
 # hello-world-github
-My second repository!
+Ceci est mon deuxième dépôt GitHub
